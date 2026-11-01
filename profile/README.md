@@ -13,5 +13,5 @@ Entidad sin ánimo de lucro constituida en Envigado, Antioquia (personería jur�
 
 ## Enlaces
 
-- Sitio web: [corponegroponte.github.io](https://corponegroponte.org/)
+- Sitio web: [corponegroponte.org](https://corponegroponte.org/)
 - Código del sitio: [corponegroponte/corponegroponte.github.io](https://github.com/corponegroponte/corponegroponte.github.io)
